@@ -1,5 +1,5 @@
 # Find Words Game
-this game made by tkinter.
+this GUI using tkinter.
 
 ## guide
 1. customize your game mode ex. (hard, medium, easy),
