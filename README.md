@@ -8,3 +8,5 @@ this GUI using tkinter.
 4. click find to check your answer. if it is correct, it will be deleted.
 # screenshot
 ![findGameSecreenshot](https://user-images.githubusercontent.com/67521813/232237477-189ab26d-7c5c-4e7b-bcb9-aece3697c84b.png)
+
+NOTE: this gmae made by me.
